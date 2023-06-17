@@ -52,6 +52,7 @@ else
 	  	  cat ${Data}.${gene}.single.matching >> $OutputPrefix.matching
 	 		  cat ${Data}.${gene}.single.corrected >> $OutputPrefix.bed12
 	 		  rm -rf ${Data}.${gene}.single.*
+      			  rm $OutputPrefix.matching      
       fi
 
       #Check multi-exon isoforms:
