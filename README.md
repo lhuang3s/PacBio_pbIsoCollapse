@@ -35,8 +35,8 @@ The command will be like:
 
 ## 4. Output files:
 
-`OutputPrefix.bed12`                         Final collapsed and corrected isoforms, sorted by genomic locations
+`OutputPrefix.bed12`  Final collapsed and corrected isoforms, sorted by genomic locations
 
-`OutputPrefix.Original2Final.matching`       Matching relationships between the original isoform names and the collapsed isoform names in OutputPrefix.bed12
+`OutputPrefix.Original2Final.matching`  Matching relationships between the original isoform names and the collapsed isoform names in OutputPrefix.bed12
 
-`OutputPrefix.abundance.txt` 		             Provide the merged abundances for each collapsed and corrected isoform
+`OutputPrefix.abundance.txt`  Provide the merged abundances for each collapsed and corrected isoform
